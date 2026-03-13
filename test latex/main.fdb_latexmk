@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1773420289.18671 "c:/Users/User/Documents/Arch/Code/test/test latex/main.tex" "main.pdf" "main" 1773420289.60183 0
+  "C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1773420138 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1773420153 13333003 be1d75542df1f1cfee9a9620f22bf003 ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "c:/Users/User/Documents/Arch/Code/test/test latex/main.tex" 1773420288 124 1e1bca375d5396b97e407da5afd7725a ""
+  "main.aux" 1773420289 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1773420288 124 1e1bca375d5396b97e407da5afd7725a ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
